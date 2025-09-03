@@ -2,20 +2,24 @@
 <h3 align="center">Flutter Developer 📱</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Abdelrhman%20Waly-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Abowaly26"><img src="https://img.shields.io/badge/GitHub-AbdelrhmanWaly-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdelrhman%20Waly-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Abowaly26" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-AbdelrhmanWaly-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
----
+<hr style="border: 1px solid #444;" />
 
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
 
-## 🚀 About Me
+<h2>🚀 About Me</h2>
 
-```dart
+<pre>
 class AbdelrhmanWaly {
   String role = "Flutter Developer";
-  String background = "Academic background + Practical courses";
+  String background = "Practical experience + self-learning";
   List<String> skills = [
     "Flutter & Dart",
     "Firebase Integration",
@@ -24,49 +28,45 @@ class AbdelrhmanWaly {
     "Local Storage (Hive, SQLite)"
   ];
 }
+</pre>
 
-```
-## 🔥 Highlights
+<hr />
 
-- 🔥 Built a YouTube channel with **240K+ subscribers**
-- 👨‍🏫 Teaching programming in **simple Arabic** — clear, visual, and practical
-- 📚 Founder of [learrnsimply.com](https://learrnsimply.com) – an Arabic-first coding school
-- 🧩 Building **reusable Flutter components**, animations & UI kits
-- 📦 Making **clean code fun** to learn for beginners
+<h2>🔥 Highlights</h2>
+<ul>
+  <li>📱 Developed multiple <b>Flutter apps</b> during my learning journey</li>
+  <li>🛠️ Experience in <b>API integration</b> and local storage solutions</li>
+  <li>🎨 Focused on building clean and user-friendly UI/UX</li>
+  <li>💡 Interested in animations and reusable components</li>
+  <li>🌱 Always learning and improving as a mobile developer</li>
+</ul>
 
----
+<hr />
 
-## 🧰 Tech Toolbox
-
+<h2>🧰 Tech Toolbox</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,python,vscode,github,figma,git,bash" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,vscode,figma,cpp,java,python" />
 </p>
 
----
+<hr />
 
-# 📊 GitHub Stats
-
+<h1>📊 GitHub Stats</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedlearnSimply&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedlearnSimply&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abowaly26&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abowaly26&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
 
----
+<hr />
 
-## 🎬 My YouTube Focus
+<h2>🚀 Projects</h2>
+<ul>
+  <li>📝 <a href="https://github.com/Abowaly26/notes_app" target="_blank">Notes App</a> – Simple and fast notes manager with Hive for local storage</li>
+  <li>🛍️ <a href="https://github.com/Abowaly26/store_app" target="_blank">Store App</a> – E-commerce app displaying clothes & accessories with API integration</li>
+</ul>
 
-- ✅ **Flutter basics to advanced** (in Arabic)
-- ✅ **Problem-solving** with C++ & Java
-- ✅ **Real app UIs** with animations
-- ✅ Tips for **VS Code, Git**, and productivity
-- ✅ Free projects and walkthroughs
+<hr />
 
-▶️ Check it out: [**YouTube - Learn Simply**](https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1)
-
----
-
-
-
-## ⚡️ Motto
-
-> **“Let’s simplify learning, one line of code at a time.”**
+<h2>⚡️ Motto</h2>
+<blockquote>
+  <b>“Keep coding, keep improving, and never stop learning.”</b>
+</blockquote>

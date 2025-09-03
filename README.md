@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="www.linkedin.com/in/abdelrahmanwaly">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdelrhman%20Waly-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://www.linkedin.com/in/abdelrahmanwaly/?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Abowaly26" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-AbdelrhmanWaly-181717?style=for-the-badge&logo=github&logoColor=white" />

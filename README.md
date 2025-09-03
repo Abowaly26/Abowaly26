@@ -2,8 +2,8 @@
 <h3 align="center">Flutter Developer 📱</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/abdelrahmanwaly">
-    <img src="https://www.linkedin.com/in/abdelrahmanwaly/?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/abdelrahmanwaly/)zzzz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdelrhman%20Waly-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Abowaly26" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-AbdelrhmanWaly-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -45,7 +45,7 @@ class AbdelrhmanWaly {
 
 <h2>🧰 Tech Toolbox</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,vscode,figma,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,vscode,figma,cpp,java,python" />
 </p>
 
 <hr />
@@ -56,6 +56,15 @@ class AbdelrhmanWaly {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abowaly26&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
 
+<hr />
+
+<h2>🚀 Projects</h2>
+<ul>
+  <li>📝 <a href="https://github.com/Abowaly26/notes_app" target="_blank">Notes App</a> – Simple and fast notes manager with Hive for local storage</li>
+  <li>🛍️ <a href="https://github.com/Abowaly26/store_app" target="_blank">Store App</a> – E-commerce app displaying clothes & accessories with API integration</li>
+</ul>
+
+<hr />
 
 <h2>⚡️ Motto</h2>
 <blockquote>

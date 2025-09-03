@@ -2,7 +2,7 @@
 <h3 align="center">Flutter Developer 📱</h3>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/abdelrahmanwaly/)zzzz" target="_blank">
+  <a href="https://www.linkedin.com/in/abdelrahmanwaly/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Abdelrhman%20Waly-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Abowaly26" target="_blank">

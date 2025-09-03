@@ -45,7 +45,7 @@ class AbdelrhmanWaly {
 
 <h2>🧰 Tech Toolbox</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,vscode,figma,cpp,java,python" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,vscode,figma,cpp,python" />
 </p>
 
 <hr />
@@ -56,15 +56,6 @@ class AbdelrhmanWaly {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abowaly26&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
 
-<hr />
-
-<h2>🚀 Projects</h2>
-<ul>
-  <li>📝 <a href="https://github.com/Abowaly26/notes_app" target="_blank">Notes App</a> – Simple and fast notes manager with Hive for local storage</li>
-  <li>🛍️ <a href="https://github.com/Abowaly26/store_app" target="_blank">Store App</a> – E-commerce app displaying clothes & accessories with API integration</li>
-</ul>
-
-<hr />
 
 <h2>⚡️ Motto</h2>
 <blockquote>

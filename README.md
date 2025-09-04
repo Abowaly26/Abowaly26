@@ -50,11 +50,7 @@ class AbdelrhmanWaly {
 
 <hr />
 
-<h1>📊 GitHub Stats</h1>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abowaly26&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abowaly26&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-</p>
+
 
 
 <h2>⚡️ Motto</h2>
